@@ -77,7 +77,7 @@ Gemini: Ultra-concise ("Water falling from clouds").
 #### Basic Prompt: "Explain rainfall in 1–2 sentences."
 Both models delivered clear, mechanistic explanations.
 
-### 3. Tabular Data Requests
+## 3. Tabular Data Requests
 #### Naive Prompt: "List energy types."
 ChatGPT: Bullet-pointed list.
 Gemini: Categorized energy (kinetic/potential) with examples.
@@ -85,7 +85,7 @@ Gemini: Categorized energy (kinetic/potential) with examples.
 #### Basic Prompt: "Create a table of 3 energy types with definitions and examples."
 Both models generated structured tables, though formatting differed slightly.
 
-### 4. Comparative Analysis
+## 4. Comparative Analysis
 #### Naive Prompt: "Compare things."
 ChatGPT: Compared apples/oranges and cars/bicycles.
 Gemini: Focused only on apples/oranges.

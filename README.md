@@ -36,86 +36,67 @@ Compare outputs based on:
 
 
 
-Naive Prompts: Broad, open-ended questions (e.g., "Tell me something interesting").
+#### Naive Prompts :
+Broad, open-ended questions (e.g., "Tell me something interesting").
 
-Basic Prompts: Specific, structured instructions (e.g., "Explain the intuition behind AI prompts with two examples").
+#### Basic Prompts :
+Specific, structured instructions (e.g., "Explain the intuition behind AI prompts with two examples").
 
-Select Test Scenarios:
-
+#### Select Test Scenarios :
 Creative tasks (e.g., storytelling).
-
 Factual queries (e.g., scientific explanations).
-
 Summarization tasks.
-
 Comparative analysis.
 
-Execute Prompts:
-
+#### Execute Prompts :
 Input both naive and basic prompts into ChatGPT and Gemini.
-
 Record and label responses for comparison.
 
-Evaluation Metrics:
-
+#### Evaluation Metrics :
 Quality: Coherence, relevance, and engagement.
-
 Accuracy: Factual correctness and logical consistency.
-
 Depth: Detail, nuance, and adaptability to context.
 
-Results:
-1. Intuition Behind Prompts
-Naive Prompt: "Tell me something interesting."
+## Results:
+## 1. Intuition Behind Prompts
 
-ChatGPT: Shared a fact about animal physiology.
-
-Gemini: Provided a fact about honey preservation.
-
-Basic Prompt: "Explain how AI prompts work with two examples."
-
+#### Naive Prompt : "Tell me something interesting."
+ ChatGPT: Shared a fact about animal physiology.
+ Gemini: Provided a fact about honey preservation.
+ 
+ #### Basic Prompt: "Explain how AI prompts work with two examples."
 ChatGPT: Defined prompts as contextual guides, offering translation and storytelling examples.
-
 Gemini: Described prompts as predictors of word sequences, using sky color and translation examples.
 
-2. Straightforward Queries
-Naive Prompt: "Rain."
+## 2. Straightforward Queries
 
+#### Naive Prompt: "Rain."
 ChatGPT: Brief explanation of rain formation.
-
 Gemini: Ultra-concise ("Water falling from clouds").
 
-Basic Prompt: "Explain rainfall in 1–2 sentences."
-
+#### Basic Prompt: "Explain rainfall in 1–2 sentences."
 Both models delivered clear, mechanistic explanations.
 
-3. Tabular Data Requests
-Naive Prompt: "List energy types."
-
+### 3. Tabular Data Requests
+#### Naive Prompt: "List energy types."
 ChatGPT: Bullet-pointed list.
-
 Gemini: Categorized energy (kinetic/potential) with examples.
 
-Basic Prompt: "Create a table of 3 energy types with definitions and examples."
-
+#### Basic Prompt: "Create a table of 3 energy types with definitions and examples."
 Both models generated structured tables, though formatting differed slightly.
 
-4. Comparative Analysis
-Naive Prompt: "Compare things."
-
+### 4. Comparative Analysis
+#### Naive Prompt: "Compare things."
 ChatGPT: Compared apples/oranges and cars/bicycles.
-
 Gemini: Focused only on apples/oranges.
 
-Basic Prompt: "Compare rule-based systems vs. machine learning."
-
+#### Basic Prompt: "Compare rule-based systems vs. machine learning."
 Both models highlighted adaptability (ML) versus transparency (rule-based), with ChatGPT offering slightly more detail.
 
-Key Findings:
+### Key Findings:
 ## Quality:
 
 ChatGPT excelled in detailed, expansive responses.
-
 Gemini prioritized brevity and precision.
 
 ## Accuracy:
@@ -125,7 +106,6 @@ Both models performed well, but ChatGPT handled complex queries more robustly.
 ## Depth:
 
 Gemini provided nuanced answers to broad prompts.
-
 ChatGPT thrived with structured prompts, delivering comprehensive outputs.
 
 ### Conclusion:

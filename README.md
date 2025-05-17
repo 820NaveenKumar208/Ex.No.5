@@ -93,7 +93,7 @@ Gemini: Focused only on apples/oranges.
 #### Basic Prompt: "Compare rule-based systems vs. machine learning."
 Both models highlighted adaptability (ML) versus transparency (rule-based), with ChatGPT offering slightly more detail.
 
-### Key Findings:
+# Key Findings:
 ## Quality:
 
 ChatGPT excelled in detailed, expansive responses.
